@@ -12,8 +12,8 @@
   * [Questions](#Questions)
 
   ## Demo
-  ![Demo](.\Demo.gif)  
-  
+  ![Demo](https://github.com/OrtizAlex/AO-Homework09-ReadmeGenerator/blob/main/Demo.gif)  
+
   ## Description
   A command line interface which takes user inputted answers to prompted questions and generates a ReadMe file
 
